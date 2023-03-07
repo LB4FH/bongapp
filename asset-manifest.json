@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bouvet.app/static/css/main.073c9b0a.css",
+    "main.js": "/bouvet.app/static/js/main.62b3ce50.js",
+    "static/media/logo.svg": "/bouvet.app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bouvet.app/index.html",
+    "main.073c9b0a.css.map": "/bouvet.app/static/css/main.073c9b0a.css.map",
+    "main.62b3ce50.js.map": "/bouvet.app/static/js/main.62b3ce50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.62b3ce50.js"
+  ]
+}
