@@ -3,7 +3,6 @@ body {
     text-align: center;
     vertical-align: middle;
     color: #fcf8f3;
-    size: 40em;
     width: auto;
 }
 h1 {
@@ -11,4 +10,16 @@ h1 {
 }
 a {
     color: #fcf8f3;
+}
+.title {
+    font-size: 8em;
+    font-family: 'Times New Roman', Times, serif
+}
+.text {
+    font-size: 4em;
+    font-family: 'Times New Roman', Times, serif
+}
+.bouvet {
+    color: #de8209;
+    font-weight: bold;
 }
